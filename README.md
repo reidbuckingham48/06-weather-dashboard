@@ -10,3 +10,4 @@ Functionality includes:
 - saving the search history to local storage
 - clearing search history using the 'clear history' button
 
+![image](https://user-images.githubusercontent.com/64936914/87892901-f73e7680-ca03-11ea-90e9-1af2827ce8ec.png)
